@@ -20,6 +20,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Carlos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antônio-carlos1011)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniocarlos101103@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=antoniocarlos101103@gmail.com)
 
 ---
