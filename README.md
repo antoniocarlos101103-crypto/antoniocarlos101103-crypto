@@ -2,7 +2,9 @@
 
 🎓 Estudante de Desenvolvimento de Sistemas  
 💻 Focado em Python, HTML e CSS  
-🚀 Preparando-me para o mercado de tecnologia
+🚀 Em constante evolução para ingressar no mercado de tecnologia  
+
+---
 
 ## 🚀 Tecnologias que estou estudando
 
@@ -11,8 +13,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
+
+---
+
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antônio-carlos1011)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antônio%20Carlos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antônio-carlos1011)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniocarlos101103@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniocarlos101103@gmail.com)
+
+---
